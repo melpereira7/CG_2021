@@ -7,6 +7,7 @@
 
 #define _USE_MATH_DEFINES
 #include <math.h>
+#include <iostream>
 
 float alpha = M_PI / 4, beta = M_PI / 4;
 float cameraRadius = 5.0f;

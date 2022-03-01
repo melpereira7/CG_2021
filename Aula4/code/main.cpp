@@ -19,7 +19,7 @@ float camX, camY, camZ;
 
 const int n = 1;
 
-GLuint buffer;
+GLuint buffer[n];
 GLuint indexes;
 GLuint vertexcount;
 GLuint indexcount;
@@ -201,7 +201,7 @@ void renderScene(void) {
 		0.0f, 1.0f, 0.0f);
 
     glColor3f(0.8f, 0.5f, 9.8f);
-    glBindBuffer(GL_ARRAY_BUFFER,buffer);
+    //glBindBuffer(GL_ARRAY_BUFFER,buffer);
     glVertexPointer(3,GL_FLOAT,0,0);
     glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, indexes);
     glDrawElements(GL_TRIANGLES, indexcount, GL_UNSIGNED_INT, NULL);

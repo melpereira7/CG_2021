@@ -43,7 +43,7 @@ void renderScene(void)
 	// clear buffers
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-	r += 0.01;
+	r += 0.01; //tentar random
 	g += 0.04;
 	b += 0.07;
 	glColor3f((sin(r)+1)/2, (sin(g)+1)/2, (sin(b)+1)/2);
@@ -56,6 +56,8 @@ void renderScene(void)
 		
 	// put drawing instructions here
 	size += 0.01;
+	inRadius += 0.01;
+	outRadius += 0.01;
 	glutWireTeapot(sin(size)+1);
 	
 	// End of frame

@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Computacao Grafica/Projeto/CG2021/parte3/Engine/Astro.cpp
+iostream
+-
+string
+-
+list
+-
+vector
+-
+GL/glew.h
+-
+Astro.h
+C:/Computacao Grafica/Projeto/CG2021/parte3/Engine/Astro.h
+
+C:/Computacao Grafica/Projeto/CG2021/parte3/Engine/Astro.h
+list
+-
+vector
+-
+cmath
+-
+iostream
+-
+fstream
+-
+string
+-
+tuple
+-
+list
+-
+vector
+-
+GL/glew.h
+-
+
+C:/Computacao Grafica/toolkits/glew/GL/glew.h
+stddef.h
+-
+inttypes.h
+-
+stdint.h
+-
+inttypes.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+

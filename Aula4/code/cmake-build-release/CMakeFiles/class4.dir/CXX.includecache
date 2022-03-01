@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/melan/Desktop/Aulas/CG/.toolkits/glew/GL/glew.h
+stddef.h
+-
+inttypes.h
+-
+stdint.h
+-
+inttypes.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+
+C:/Users/melan/Desktop/Aulas/CG/.toolkits/glut/GL/glut.h
+windows.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+
+C:/Users/melan/Desktop/Aulas/CG/Praticas/Aula4/code/main.cpp
+stdio.h
+-
+GLUT/glut.h
+-
+windows.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+math.h
+-
+vector
+-
+

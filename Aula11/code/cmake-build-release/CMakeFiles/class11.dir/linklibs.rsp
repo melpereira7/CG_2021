@@ -1,0 +1,1 @@
+  -LC:/Users/melan/Desktop/Aulas/CG/.toolkits/glew  -LC:/Users/melan/Desktop/Aulas/CG/.toolkits/glut  -LC:/Users/melan/Desktop/Aulas/CG/.toolkits/devil  -lopengl32 -lglu32 -lglut32 -lglew32 -lDevIL -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

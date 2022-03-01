@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/melan/Desktop/GIT/ProjetoCG/CG2021/parte2/Generator/generator.cpp
+stdlib.h
+-
+cmath
+-
+math.h
+-
+fstream
+-
+string
+-
+cstring
+-
+cstdlib
+-
+

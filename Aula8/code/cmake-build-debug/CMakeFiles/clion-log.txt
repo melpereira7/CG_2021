@@ -1,0 +1,14 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\melan\Desktop\Aulas\CG\Praticas\Aula8\code
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Toolkits_DIR set to: 
+ERROR: GLUT not found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/melan/Desktop/Aulas/CG/Praticas/Aula8/code/cmake-build-debug

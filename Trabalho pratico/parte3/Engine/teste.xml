@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene>
+    <group><!--sol-->
+        <colour R="0.99" G="0.72" B="0.07"/>
+        <models>
+            <model file="../../Generator/cmake-build-release/teapot.3d"/>
+        </models>
+    </group>
+</scene>

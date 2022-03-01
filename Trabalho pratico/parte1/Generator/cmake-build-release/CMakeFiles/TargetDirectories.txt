@@ -1,0 +1,3 @@
+C:/Users/melan/OneDrive - Universidade do Minho/[CG]Projeto/Generator/cmake-build-release/CMakeFiles/Generator.dir
+C:/Users/melan/OneDrive - Universidade do Minho/[CG]Projeto/Generator/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/melan/OneDrive - Universidade do Minho/[CG]Projeto/Generator/cmake-build-release/CMakeFiles/rebuild_cache.dir

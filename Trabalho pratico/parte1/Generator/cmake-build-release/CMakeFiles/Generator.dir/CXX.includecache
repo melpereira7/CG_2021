@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/melan/OneDrive - Universidade do Minho/[CG]Projeto/Generator/generator.cpp
+stdlib.h
+-
+cmath
+-
+math.h
+-
+fstream
+-
+string
+-
+cstring
+-
+cstdlib
+-
+

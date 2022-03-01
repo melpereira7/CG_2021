@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -DTOOLKITS_FOLDER=C:\Users\melan\Desktop\Aulas\CG\.toolkits -G "CodeBlocks - MinGW Makefiles" C:\Users\melan\Desktop\GIT\ProjetoCG\CG2021\parte2\Engine
+-- Toolkits_DIR set to: C:\Users\melan\Desktop\Aulas\CG\.toolkits
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/melan/Desktop/GIT/ProjetoCG/CG2021/parte2/Engine/cmake-build-release

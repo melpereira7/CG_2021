@@ -1,0 +1,4 @@
+ToolSet: 5.0 (local)@C:\MinGW
+Options: 
+
+Options:-DTOOLKITS_FOLDER=C:\Users\melan\Desktop\Aulas\CG\.toolkits

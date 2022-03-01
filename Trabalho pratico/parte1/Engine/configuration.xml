@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene>
+	<model file="../../Generator/cmake-build-release/plane.3d" />
+	<model file="../../Generator/cmake-build-release/boxWithoutN.3d" />
+	<model file="../../Generator/cmake-build-release/boxWithN.3d" />
+	<model file="../../Generator/cmake-build-release/sphere.3d" />
+	<model file="../../Generator/cmake-build-release/cone.3d" />
+</scene>

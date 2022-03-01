@@ -1,0 +1,10 @@
+^C:\USERS\MELAN\DESKTOP\AULAS\CG\PRATICAS\PREPARATION\CODE\BUILD\CMAKEFILES\246B8030CE9F9EF8307E308D3BC1D49F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/melan/Desktop/Aulas/CG/Praticas/Preparation/code -BC:/Users/melan/Desktop/Aulas/CG/Praticas/Preparation/code/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/melan/Desktop/Aulas/CG/Praticas/Preparation/code/build/class1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
